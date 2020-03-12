@@ -1,0 +1,6 @@
+C:\Users\Oishik\Documents\Codes\Tempareture Converter\Tempareture Converter\bin\Debug\Tempareture Converter.exe.config
+C:\Users\Oishik\Documents\Codes\Tempareture Converter\Tempareture Converter\bin\Debug\Tempareture Converter.exe
+C:\Users\Oishik\Documents\Codes\Tempareture Converter\Tempareture Converter\bin\Debug\Tempareture Converter.pdb
+C:\Users\Oishik\Documents\Codes\Tempareture Converter\Tempareture Converter\obj\Debug\Tempareture Converter.csprojAssemblyReference.cache
+C:\Users\Oishik\Documents\Codes\Tempareture Converter\Tempareture Converter\obj\Debug\Tempareture Converter.exe
+C:\Users\Oishik\Documents\Codes\Tempareture Converter\Tempareture Converter\obj\Debug\Tempareture Converter.pdb
